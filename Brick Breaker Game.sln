@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Brick Breaker Game", "Brick Breaker Game\Brick Breaker Game.pyproj", "{2DD5BD55-52D5-47DA-82B0-50E901212EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD5BD55-52D5-47DA-82B0-50E901212EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD5BD55-52D5-47DA-82B0-50E901212EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA3DAE0-4920-4B6B-97AD-61903CC39B25}
+	EndGlobalSection
+EndGlobal
